@@ -8,3 +8,8 @@ Python projects that learn me a lot about python syntax with tricks to make me m
 
 - You have a list that has many colors of balls and you want to remove white and black balls from the list.
 ![21](https://user-images.githubusercontent.com/50196370/84711310-4b1df180-af66-11ea-9398-a3b9cf083d99.PNG)
+
+**Cars Plate Selection**
+
+- you have lists that access the cars that have odd or even number un some days in the week.
+![4](https://user-images.githubusercontent.com/50196370/84961882-b6ea9080-b105-11ea-915d-267ba4fe4fe3.PNG)
